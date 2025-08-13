@@ -6,4 +6,10 @@ Project code for NMA Computational Neuroscience 2025
 
 This is a simple, prototypal project which tries to examine the impact of varying spatial resolution in fMRI data on different neural decoding tasks.
 
-Neuromatch Academy: [link](https://portal.neuromatchacademy.org/)
+## Links
+
+### Neuromatch Academy
+
+Portal: [link](https://portal.neuromatchacademy.org/)
+
+Github Repo: [link](https://github.com/NeuromatchAcademy/course-content)
